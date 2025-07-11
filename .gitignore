@@ -39,3 +39,12 @@
 
 # debug information files
 *.dwo
+
+# Build folders
+bazel-bin/
+bazel-cpp-dsa-lib/  
+bazel-out/  
+bazel-testlogs/
+
+#Lock files
+*.lock
